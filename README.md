@@ -215,25 +215,3 @@ The following dependencies are required for this assignment and were likely alre
       MyCrypto's TX Status, and screenshot the successful transaction like so:
 
       ![eth-test](Images/eth-test.png)
-### 7. Challenge Mode - **OPTIONAL**
-
-- Add support for `BTC`.
-
-- Add support for `LTC` using the sister library, [`lit`](https://github.com/blockterms/lit).
-
-- Add a function to track transaction status by `txid`.
-### 8. Submission
-
-- Create a `README.md` that contains the test transaction screenshots, as well as the code used to send them.
-  Pair the screenshot with the line(s) of code.
-
-- Write a short description about what the wallet does, what it's built with, and how to use it.
-
-- Include installing pip dependencies using `requirements.txt`, as well as cloning and installing `hd-wallet-derive`.
-  You may include the `hd-wallet-derive` folder in your repo, but still include the install instructions. You do not
-  need to include Python or PHP installation instructions.
-
-- Upload the project to a new GitHub repository.
-
-- Celebrate the fact that you now have an incredibly powerful wallet that you can expand to hundreds of coins!
-
